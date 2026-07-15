@@ -40,4 +40,5 @@ Key workforce metrics to support strategic HR decisions
 
 6. Screenshot of Dashboard :
    a) https://github.com/banaitruchika-14/IBM-Dashboard/blob/main/Snapshot-1%20of%20dashboard.png
-   
+   b) https://github.com/banaitruchika-14/IBM-Dashboard/blob/main/Snapshot-2%20of%20dashboard.png
+   c) 
