@@ -5,37 +5,37 @@ This project is an interactive HR Analytics Dashboard developed in Power BI usin
 The primary objective of this dashboard is to transform raw HR data into meaningful business insights that support data-driven decision-making in areas such as employee engagement, workforce planning, and attrition analysis.
 
 3. Tech Stack : 
-Power BI Desktop
-Power Query (Data Cleaning & Transformation)
-DAX (Data Analysis Expressions) (KPIs & Measures)
-Data Modeling
-Interactive Visualizations
+Power BI Desktop, 
+Power Query (Data Cleaning & Transformation),
+DAX (Data Analysis Expressions) (KPIs & Measures),
+Data Modeling,
+Interactive Visualizations.
 
 4. Dataset: IBM HR Analytics Employee Attrition & Performance Dataset
 The dataset contains employee-related information including:
-Demographics
-Department
-Job Role
-Monthly Income
-Age
-Education
-Job Satisfaction
-Work-Life Balance
-Overtime
-Years at Company
-Attrition Status
-Performance Rating
-Business Travel
+Demographics,
+Department,
+Job Role,
+Monthly Income,
+Age,
+Education,
+Job Satisfaction,
+Work-Life Balance,
+Overtime,
+Years at Company,
+Attrition Status,
+Performance Rating,
+Business Travel,
 and other HR-related attributes.
 
 5. Business Insights : 
 The dashboard helps identify:
-Departments with higher employee attrition
-Workforce demographic trends
-Impact of overtime on employee retention
-Relationship between job satisfaction and attrition
-Employee distribution across departments and job roles
-Key workforce metrics to support strategic HR decisions
+Departments with higher employee attrition,
+Workforce demographic trends,
+Impact of overtime on employee retention,
+Relationship between job satisfaction and attrition,
+Employee distribution across departments and job roles,
+Key workforce metrics to support strategic HR decisions.
 
 
 6. Screenshot of Dashboard :
